@@ -66,27 +66,27 @@ Programming Language: Python 🐍
 Platform: Jupyter Notebook
 File Format: .ipynb
 📂 Repository Structure
-text
+```
 Basic-Python-Projects/
 │
 ├── basic_python_projects.ipynb
 │
 └── README.md
-
+```
 🚀 How to Run These Projects
 Clone this repository:
-bash
+```python
 git clone https://github.com/Aditya490-ai/Basic-Python-Projects.git
-
+```
 Open the project folder.
 Install Jupyter Notebook if you don't have it:
-bash
+```
 pip install notebook
-
+```
 Launch Jupyter Notebook:
-bash
+```
 jupyter notebook
-
+```
 Open basic_python_projects.ipynb.
 Run the cells one by one to explore and use the projects.
 🎯 Learning Objectives
